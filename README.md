@@ -1,4 +1,5 @@
-## Hi there 👋
+This repository is only made for Web development tasks
+
 
 <!--
 **Zahid8910/Zahid8910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
