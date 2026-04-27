@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>Hi 👋, I'm Md. Zahid Hasan<br><br>- 🎓 CSE student with a strong interest in AI & Public Health Technology<br>- 🧠 Working on offline AI-based mental health crisis detection systems<br>- 📊 Conducting research on AI, media credibility, and social impact<br>- 🌱 Currently learning advanced AI concepts & system design<br>- 🚀 Passionate about building solutions that create real-world impact<br><br>💬 Tech Stack: Programming | Research | AI Fundamentals<br>📫 Contact: zahid.hasa.8910@gmail.com<br>🌐 Portfolio: https://sites.google.com/view/zahid8910?usp=sharing
+👨‍💻 About Me<br><br>Hi 👋, I'm Md. Zahid Hasan<br><br>- 🎓 CSE student with a strong interest in AI & Public Health Technology<br>- 🧠 Working on offline AI-based mental health crisis detection systems<br>- 📊 Conducting research on AI, media credibility, and social impact<br>- 🌱 Currently learning advanced AI concepts & system design<br>- 🚀 Passionate about building solutions that create real-world impact<br><br>💬 Tech Stack: Programming | Research | AI Fundamentals<br>📫 Contact: zahid.hasan.8910@gmail.com<br>🌐 Portfolio: https://sites.google.com/view/zahid8910?usp=sharing
 
 
 ## 🌐 Socials:
